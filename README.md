@@ -19,5 +19,5 @@ You will also see any lint errors in the console.
 
 ## Screenshot
 
-![Screenshot](/image.png "Screenshot")
+![Screenshot](/image.png | width=50)
 
