@@ -19,5 +19,4 @@ You will also see any lint errors in the console.
 
 ## Screenshot
 
-![Screenshot](/image.png "Screenshot" ){:width="50%"}
-
+<img src="/image.png" width="100">
