@@ -19,4 +19,4 @@ You will also see any lint errors in the console.
 
 ## Screenshot
 
-<img src="/image.png" width="60%">
+<img src="/image.png" width="300">
