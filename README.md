@@ -1,4 +1,10 @@
-# Todo App - React Native
+
+
+# Todo App - React Native ⚛️
+![Todo App](https://i.imgur.com/woaHEvA.jpg)
+## About the app	
+Cross-platform application for keeping track of your daily notes, built using react-native :)
+
 ## Running the app
 
 1) In the project directory, you need to run this command to install the node modules:
